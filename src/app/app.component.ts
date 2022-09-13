@@ -6,7 +6,7 @@ import {Component, OnInit} from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent implements OnInit {
-  title = 'github-actions-test';
+  title = 'github-actions-test updated';
 
   ngOnInit(): void {
     console.log('AppComponent');
